@@ -1,5 +1,5 @@
 ![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1kKpStyOvN8rSz5Z2nbe14DFF7NQ7S7mpWA&usqp=CAU)
-<h1 align="center">Hi 👋, I'm Nweke Maxwell</h1>
+<h1 align="center">Hi 👋, I'm Nweke Maxwell Lotanna</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 <img align="right" src="https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" alt="coding" width=”400” />
 
@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/maxwellnweke" target="blank"><img src="https://img.shields.io/twitter/follow/maxwellnweke?logo=twitter&style=for-the-badge" alt="maxwellnweke" /></a> </p>
 
-- 🔭 I’m currently working on **Frontend Development and Machine Learning**
+- 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **Javascript and C**
+- 🌱 I’m currently learning **Javascript and New technologies**
 
 - 👯 I’m looking to collaborate on **Projects**
 
-- 💬 Ask me about **C,SHELL,JAVASCRIPT,SCSS,CSS**
+- 💬 Ask me about **REACT,JAVASCRIPT,SASS,CSS**
 
 - 📫 How to reach me **nwekemaxwell37@gmail.com**
 
