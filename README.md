@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **Javascript and New technologies**
+- 🌱 I’m currently learning New technologies**
 
-- 👯 I’m looking to collaborate on **Projects**
+- 👯 I’m looking to **work** or collaborate on **Projects**
 
-- 💬 Ask me about **REACT,JAVASCRIPT,SASS,CSS**
+- 💬 Ask me about **WEB DEVELOPMENT, REACT,JAVASCRIPT,TYPESCRIPT**
 
 - 📫 How to reach me **nwekemaxwell37@gmail.com**
 
