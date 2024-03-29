@@ -1,19 +1,21 @@
 ![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1kKpStyOvN8rSz5Z2nbe14DFF7NQ7S7mpWA&usqp=CAU)
 <h1 align="center">Hi 👋, I'm Nweke Maxwell Lotanna</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A passionate FullStack Software developer from Nigeria</h3>
 <img align="right" src="https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" alt="coding" width=”400” />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nwekemaxwell&label=Profile%20views&color=0e75b6&style=flat" alt="nwekemaxwell" /> </p>
 
 <p align="left"> <a href="https://twitter.com/maxwellnweke" target="blank"><img src="https://img.shields.io/twitter/follow/maxwellnweke?logo=twitter&style=for-the-badge" alt="maxwellnweke" /></a> </p>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently **Developing Softwares**
+- 
+- 📚 My Development Stack is **MERN** (MongoDB, Express, React, NodeJS)
 
-- 🌱 All my personal projects can be viewed [here](https://nwekemaxwell.netlify.app/)
+- 🌱 My earlier personal projects can be viewed [here](https://nwekemaxwell.netlify.app/)
 
-- 👯 I’m looking to **work** or collaborate on **Projects**
+- 👯 I’m looking to **work** or collaborate on **Software Projects that'll improve people's life**
 
-- 💬 Ask me about **WEB DEVELOPMENT, REACT,JAVASCRIPT,TYPESCRIPT**
+- 💬 Ask me about **SOFTWARE DEVELOPMENT, WEB DEVELOPMENT, REACTJS ,NODEJS ,TYPESCRIPT**
 
 - 📫 How to reach me **nwekemaxwell37@gmail.com**
 
