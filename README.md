@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently **Developing Softwares**
   
-- 📚 My Development Stack is **MERN** (MongoDB, Express, React, NodeJS)
+- 📚 My Development Stack is **not** limited to **MERN**
 
 - 🌱 My earlier personal projects can be viewed [here](https://nwekemaxwell.netlify.app/)
 
 - 👯 I’m looking to **work** or collaborate on **Software Projects that'll improve people's life**
 
-- 💬 Ask me about **SOFTWARE DEVELOPMENT, WEB DEVELOPMENT, REACTJS ,NODEJS ,TYPESCRIPT**
+- 💬 Ask me about **SOFTWARE DEVELOPMENT**
 
 - 📫 How to reach me **nwekemaxwell37@gmail.com**
 
