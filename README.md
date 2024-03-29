@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/maxwellnweke" target="blank"><img src="https://img.shields.io/twitter/follow/maxwellnweke?logo=twitter&style=for-the-badge" alt="maxwellnweke" /></a> </p>
 
 - 🔭 I’m currently **Developing Softwares**
-- 
+  
 - 📚 My Development Stack is **MERN** (MongoDB, Express, React, NodeJS)
 
 - 🌱 My earlier personal projects can be viewed [here](https://nwekemaxwell.netlify.app/)
